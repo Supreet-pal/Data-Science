@@ -8,7 +8,7 @@
 - The Big Mart dataset has over 8000 rows and 14 columns.
 - It a collection of data about approximately 1550 products across 10 stores in different cities of Canada.
 
-## Tools
+### Tools
 ![Tools](Images/Image1.2.PNG)
 
 ### Requirements
@@ -63,10 +63,10 @@ At last, export the data into .xlsx or .csv file.
 - The next step will be set up the Tableau and import the data set:
 
 
-#### Creating New Columns
+### Creating New Columns
 New fields can be created from existing ones. Calculations like divide, multiply, addition, subtraction and others can be performed on numerical fields.
 
-#### Tableau Functionalities
+### Tableau Functionalities
 
 ##### Functions
 Apply various functions on numeric value columns while plotting.
